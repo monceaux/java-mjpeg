@@ -1,0 +1,4 @@
+#ignore build and dist stuff
+/build/
+/dist/
+
